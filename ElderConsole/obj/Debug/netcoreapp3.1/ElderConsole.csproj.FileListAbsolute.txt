@@ -1,0 +1,13 @@
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.exe
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.deps.json
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.runtimeconfig.json
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.runtimeconfig.dev.json
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.dll
+E:\Code 2020\ElderConsole\bin\Debug\netcoreapp3.1\ElderConsole.pdb
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.csprojAssemblyReference.cache
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.AssemblyInfoInputs.cache
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.AssemblyInfo.cs
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.csproj.CoreCompileInputs.cache
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.dll
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.pdb
+E:\Code 2020\ElderConsole\obj\Debug\netcoreapp3.1\ElderConsole.genruntimeconfig.cache

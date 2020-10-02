@@ -1,0 +1,13 @@
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.exe
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.deps.json
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.runtimeconfig.json
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.runtimeconfig.dev.json
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.dll
+E:\Code 2020\BrackyArray\bin\Debug\netcoreapp3.1\BrackyArray.pdb
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.csprojAssemblyReference.cache
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.AssemblyInfoInputs.cache
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.AssemblyInfo.cs
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.csproj.CoreCompileInputs.cache
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.dll
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.pdb
+E:\Code 2020\BrackyArray\obj\Debug\netcoreapp3.1\BrackyArray.genruntimeconfig.cache

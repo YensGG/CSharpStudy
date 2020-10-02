@@ -1,0 +1,13 @@
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.exe
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.deps.json
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.runtimeconfig.json
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.runtimeconfig.dev.json
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.dll
+E:\Code 2020\Brackyboi\bin\Debug\netcoreapp3.1\Brackyboi.pdb
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.csprojAssemblyReference.cache
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.AssemblyInfoInputs.cache
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.AssemblyInfo.cs
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.csproj.CoreCompileInputs.cache
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.dll
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.pdb
+E:\Code 2020\Brackyboi\obj\Debug\netcoreapp3.1\Brackyboi.genruntimeconfig.cache

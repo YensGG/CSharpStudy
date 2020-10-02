@@ -1,0 +1,13 @@
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.exe
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.deps.json
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.runtimeconfig.json
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.runtimeconfig.dev.json
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.dll
+E:\Code 2020\BrackeyMethods\bin\Debug\netcoreapp3.1\BrackeyMethods.pdb
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.csprojAssemblyReference.cache
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.AssemblyInfoInputs.cache
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.AssemblyInfo.cs
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.csproj.CoreCompileInputs.cache
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.dll
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.pdb
+E:\Code 2020\BrackeyMethods\obj\Debug\netcoreapp3.1\BrackeyMethods.genruntimeconfig.cache
