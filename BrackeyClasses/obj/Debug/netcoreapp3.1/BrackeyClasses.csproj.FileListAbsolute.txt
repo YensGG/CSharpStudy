@@ -1,0 +1,13 @@
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.exe
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.deps.json
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.runtimeconfig.json
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.runtimeconfig.dev.json
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.dll
+E:\Code 2020\CSharpStudy\BrackeyClasses\bin\Debug\netcoreapp3.1\BrackeyClasses.pdb
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.csprojAssemblyReference.cache
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.AssemblyInfoInputs.cache
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.AssemblyInfo.cs
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.csproj.CoreCompileInputs.cache
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.dll
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.pdb
+E:\Code 2020\CSharpStudy\BrackeyClasses\obj\Debug\netcoreapp3.1\BrackeyClasses.genruntimeconfig.cache
