@@ -1,0 +1,13 @@
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.exe
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.deps.json
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.runtimeconfig.json
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.runtimeconfig.dev.json
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.dll
+E:\Code 2020\CSharpStudy\VoidVector\bin\Debug\netcoreapp3.1\VoidVector.pdb
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.csprojAssemblyReference.cache
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.AssemblyInfoInputs.cache
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.AssemblyInfo.cs
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.csproj.CoreCompileInputs.cache
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.dll
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.pdb
+E:\Code 2020\CSharpStudy\VoidVector\obj\Debug\netcoreapp3.1\VoidVector.genruntimeconfig.cache
