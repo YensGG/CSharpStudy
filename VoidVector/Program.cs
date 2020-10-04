@@ -40,11 +40,6 @@ namespace VoidVector
         }
     }
     
-    class PlayerShip
-    {
-        
-    }
-    
     class Player
     {
         public string shipName;
@@ -56,6 +51,7 @@ namespace VoidVector
         public int shipFuel = 400;
         public int shipCargo;
         public int shipCargoCapacity;
+        public string answer;
 
         public void PlayerShip(string _shipName, string _shipClass)
         {
@@ -74,11 +70,24 @@ namespace VoidVector
         }
         public void ConsultAI()
         {
-            Console.WriteLine(shipAIname + " tells you:\n" + "Sometimes you get it, sometimes you get got.\n");
+            
+            Console.WriteLine(shipAIname + " is processing.");System.Threading.Thread.Sleep(300);Console.Write(" . ");
+            System.Threading.Thread.Sleep(300);Console.Write(" . ");System.Threading.Thread.Sleep(300);Console.Write(" . \n");
+            System.Threading.Thread.Sleep(300);Console.Write(" . ");System.Threading.Thread.Sleep(300);Console.Write(" . ");
+            System.Threading.Thread.Sleep(300);Console.Write(" . \n\n");
+            Console.WriteLine(shipAIname + " tells you:\n");
+             System.Threading.Thread.Sleep(1400);
+            Console.WriteLine("Sometimes you get it.");
+            System.Threading.Thread.Sleep(500);Console.Write(" . ");System.Threading.Thread.Sleep(500);Console.Write(" . ");System.Threading.Thread.Sleep(500);Console.Write(" . ");
+            Console.WriteLine("\nSometimes you get got.\n");
         }
         public void SectorScan()
         {
-
+            // DEMO, FIX LATER
+            Console.WriteLine("\nSector Z11.10. You are currenlty located in the SouthWest Reagion");
+            Console.WriteLine("Sector contains 57 Star Systems.");
+            Console.WriteLine("Star Systems:\n[ 62% Binary Systems ]\n[ 38% Mono Systems ]\n");
+            Console.WriteLine("[ Sector Population: 33.205.329 ]\n[ Sector Security: 0.3 ]\n");
         }
         public void SystemScan()
         {
@@ -86,7 +95,7 @@ namespace VoidVector
         }
         public void ShipStatus()
         {
-            Console.WriteLine("Your " + shipClass + " " + shipName + " status:");
+            Console.WriteLine("\nYour " + shipClass + " " + shipName + " status:");
             Console.WriteLine("Shields: " + shipShield + " / 100 Capacity.");
             Console.WriteLine("Shields: " + shipShield + " / 100 Capacity.");
             Console.WriteLine("Hull: " + shipHull + " / 100 Capacity.");
@@ -97,12 +106,46 @@ namespace VoidVector
         {
             Console.WriteLine("The cargobay of " + shipName + " contains:");
         }
+
+        /* Not sure if making the fork a function is appropriate,
+        but previously my solution has been unlimited switches in main so not sure what to do. */
+        public void Fork (string answer)
+        {
+            switch (answer)
+            {
+                case "CommandList":
+                CommandList();
+                break;
+                case "SectorScan":
+                SectorScan();
+                break;
+                case "SystemScan":
+                SystemScan();
+                break;
+                case "ShipStatus":
+                ShipStatus();
+                break;
+                case "ConsultAI":
+                ConsultAI();
+                break;
+                default:
+                Console.WriteLine("Invalid Response..");
+                break;
+            }
+            // answer = Console.ReadLine();
+        }
     }
     
     class Program
     {
         static void Main(string[] args)
         {
+            // Change Console Appearance
+            Console.Title = "Void Vector";
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WindowWidth = 80;
+            Console.WindowHeight = 50;
+            
             Random rng = new Random();
             
             int gameSeed = rng.Next(10, 1000);
@@ -142,31 +185,8 @@ namespace VoidVector
             Console.WriteLine("\n\nYou exit from hyperspace in unknown territory.\nWhat would you like to do?\n\nWrite 'CommandList' to review your options.\n");
             string answer = Console.ReadLine();
             
-            switch (answer)
-            {
-                case "CommandList":
-                player.CommandList();
-                break;
-                case "SectorScan":
-                player.SectorScan();
-                break;
-                case "SystemScan":
-                player.SystemScan();
-                break;
-                case "ShipStatus":
-                player.ShipStatus();
-                break;
-                case "ConsultAI":
-                player.ConsultAI();
-                break;
-                default:
-                Console.WriteLine("Invalid Response..");
-                break;
-            }
-
-            answer = Console.ReadLine();
-                        
-            planet01.SystemScan();
+            // Fork 1
+            player.Fork(answer);
             
             // Wait for user input before exiting.
             Console.ReadKey();
