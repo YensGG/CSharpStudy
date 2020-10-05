@@ -39,6 +39,38 @@ namespace VoidVector
             Console.WriteLine("Your scan reads " + planetCount + " planetoids in this system.");
         }
     }
+
+    class Alien
+    {
+        public string alienName;
+        public string alienSpecies;
+        public string alienCulture;
+        public int alienAge;
+        public float alienRelation;
+        
+        public Alien()
+        {
+            
+        }
+
+        public void Talk()
+        {
+            Console.WriteLine("Hello stranger, i am " + alienName + ", i greet you.");
+        }
+
+        public void Friendly()
+        {
+            Console.WriteLine("Friendly placeholder");
+        }
+        public void Neutral()
+        {
+            Console.WriteLine("Neutral placeholder");
+        }
+        public void Hostile()
+        {
+            Console.WriteLine("Hostile placeholder");
+        }
+    }
     
     class Player
     {
@@ -186,6 +218,13 @@ namespace VoidVector
             string answer = Console.ReadLine();
             
             // Fork 1
+            player.Fork(answer);
+
+            
+            // Alien Encounter
+            Alien alien01 = new Alien();
+            alien01.Talk();
+            // Alien Encounter - Response
             player.Fork(answer);
             
             // Wait for user input before exiting.
